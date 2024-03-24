@@ -1,1 +1,56 @@
-site_name: My Docs
+site_name: Kochen und Backen
+
+theme: 
+  name: material
+# theme: readthedocs
+  primary: indigo
+  accent: indigo
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Hinotori91
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/Hinotori91
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/petra-camondo-5836bb109/
+
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - ./css/style.css
+
+dev_addr: '127.0.0.1:9000'
