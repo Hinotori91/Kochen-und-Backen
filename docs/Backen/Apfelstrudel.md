@@ -14,30 +14,30 @@
 - EtwasStaubzucker zum Bestreuen
 
 ## Zubereitung:
-Schritt 1:
+Schritt 1:  
 Backofen auf 200° C Ober-/Unterhitze vorheizen und Teig laut Packungsanleitung vorbereiten.
 
-Schritt 2
+Schritt 2:  
 Apfelstücke mit Zitronensaft beträufeln. Brösel und Butter in einer Pfanne hell rösten. Apfelstücke mit Rum-Rosinen, Zimt und Zucker vermengen.
 
-Schritt 3
+Schritt 3:  
 Blätterteig mit dem mitgerollten Backpapier am Backblech entrollen, mit Butterbröseln bestreuen und Äpfel mittig auf dem Teig verteilen.
 
-Schritt 4
+Schritt 4:  
 Teigränder mit verquirltem Ei bestreichen und den Teig von unten zur strudeltypischen Form einschlagen. Die Seiten etwas festdrücken und den Strudel mit einer Gabel mehrmals einstechen. Nochmals mit verquirltem Ei bestreichen.
 
-Schritt 5
+Schritt 5:  
 Im Backofen ca. 30 Min. auf unterster Schiene goldbraun backen.
 
-Schritt 6
+Schritt 6:  
 Nach dem Backen mit Staubzucker bestreuen.
 
-Tipp
+Tipp:  
 Falls du statt Blätterteig lieber Strudelteig verwenden möchtest, kannst du gleich das Rezept für unseren gezogenen Apfelstrudel ausprobieren.
 
 
 
 
 
-Quelle:
+Quelle:  
 <https://www.tantefanny.at/rezept/apfelstrudel-blaetterteig/> 
