@@ -1,6 +1,6 @@
 # Spanische Omlettes
 
-![Omlettes](img/spanish-omlette.jpg)
+![Omlettes](img/spanish-omlette.jpeg)
 
 ## Beschreibung
 
