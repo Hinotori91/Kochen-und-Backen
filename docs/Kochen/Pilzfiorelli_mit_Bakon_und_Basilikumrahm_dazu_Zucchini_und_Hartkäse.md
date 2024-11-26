@@ -16,7 +16,7 @@
 - Energie (kcal): 818 kcal
 - Fett: 43 g
 - davon gesättigte Fettsäuren: 16.5 g
-- Kohlenhydrate: 76.1 g
+- Kohlenydrate: 76.1 g
 - davon Zucker: 7.5 g
 - Eiweiß: 29.2 g
 - Salz: 2.38 g
