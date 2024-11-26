@@ -1,6 +1,6 @@
 # Knusprige Brokkoli-Käse Nuggets
 
-![Brokkoli-Käse-Nuggets](Knusprige-Brokkoli-Kase-Nuggets-min.png.webp)
+![Brokkoli-Käse-Nuggets](img/Knusprige-Brokkoli-Kase-Nuggets-min.png.webp)
 
 ## Zutaten
 
