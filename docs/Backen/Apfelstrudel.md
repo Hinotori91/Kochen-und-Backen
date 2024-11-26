@@ -36,8 +36,5 @@ Nach dem Backen mit Staubzucker bestreuen.
 Falls du statt Blätterteig lieber Strudelteig verwenden möchtest, kannst du gleich das Rezept für unseren gezogenen Apfelstrudel ausprobieren.
 
 
-
-
-
-Quelle:  
+## Quelle:  
 <https://www.tantefanny.at/rezept/apfelstrudel-blaetterteig/> 
