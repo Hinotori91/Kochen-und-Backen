@@ -3,7 +3,7 @@
 ## Zutaten
 - 1 Tasse Apfelwein
 - 3 Tassen Milch
-- 2 geschlagene, verrührte Eiser
+- 2 geschlagene, verrührte Eier
 - $\frac{1}{2}$ Tasse Schlagsahne
 - $\frac{1}{2}$ Tasse Zucker
 - $\frac{1}{2}$ TL Zimt
