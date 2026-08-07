@@ -1,15 +1,16 @@
 # Bananenbrot
 
 ## Zutaten
-3 reife Bananen
-80 ml neutrales Öl (Sonnenblumenöl)
-110 g brauner zucker
-2 Eier
-200 g Weizenmehl
-3 TL Backpulver
-1 Priese Salz
-1 Vanilleschote
-1 Priese Zimt
+
+- 3 reife Bananen
+- 80 ml neutrales Öl (Sonnenblumenöl)
+- 110 g brauner zucker
+- 2 Eier
+- 200 g Weizenmehl
+- 3 TL Backpulver
+- 1 Priese Salz
+- 1 Vanilleschote
+- 1 Priese Zimt
 
 ## Zubereitung
 - Ofen auf 180 Grad Ober-Unterhize (Umluft 160 Grad) vorheizen.
