@@ -9,8 +9,8 @@ Für 7 Portionen
 
 - 700 g Nudeln
 - 3.5 Paprikaschote(n)
-- 700 g Champignonsfrische
-- 700 g Brokkoliröschenkleine
+- 700 g Champignons (frische)
+- 700 g Brokkoliröschen (kleine)
 - 700 g Rinderhackfleisch
 - 3.5 Zwiebel(n)
 - 3.5 Pck. Kräuterfrischkäse
