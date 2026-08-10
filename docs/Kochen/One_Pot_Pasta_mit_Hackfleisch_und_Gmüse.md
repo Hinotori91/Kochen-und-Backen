@@ -6,6 +6,7 @@
 
 ##  Zutaten
 Für 7 Portionen
+
 - 700 g Nudeln
 - 3.5 Paprikaschote(n)
 - 700 g Champignonsfrische
